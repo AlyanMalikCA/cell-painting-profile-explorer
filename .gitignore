@@ -1,0 +1,22 @@
+# Exclude local environments, private archives and generated caches.
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+node_modules/
+environment/
+work/
+outputs/
+recovery/
+*.zip
+*.whl
+*.tar
+*.tar.gz
+*.exe
+*.msi
+.env
+.env.*
+*.pem
+*.key
+Thumbs.db
+.DS_Store

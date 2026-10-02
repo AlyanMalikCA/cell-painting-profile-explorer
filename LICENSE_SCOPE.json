@@ -1,0 +1,3600 @@
+{
+  "schema_version": 1,
+  "status": "OWNER_AUTHORIZED_MIT_SCOPED",
+  "owner_notice": "Copyright (c) 2026 Cell Painting Profile Explorer contributors",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": ".gitignore",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "CHECKSUMS.sha256",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "LICENSE",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "LICENSE_SCOPE.json",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "PUBLIC_FILES.json",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "README.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "assets/screenshots/control-diagnostic.png",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "assets/screenshots/linked-treatment-image.png",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "assets/screenshots/overview-workbench.png",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "docs/GITHUB_DESKTOP_UPLOAD.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "docs/METHODS.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "docs/QUICK_START.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "docs/RELEASE_STATUS.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "docs/SCIENTIFIC_SYNTHESIS.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "docs/THIRD_PARTY_REDISTRIBUTION.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "explorer/ATTRIBUTION.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "explorer/METHODS.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "explorer/SCIENTIFIC_SYNTHESIS.md",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "explorer/app.js",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "explorer/assets/images/BR00117015_A01_s1_DNA.png",
+      "category": "UPSTREAM_IMAGE_CC0",
+      "license_scope": "Source image preview under applicable upstream CC0 provenance; no new MIT grant.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/assets/images/BR00117015_A01_s1_RNA.png",
+      "category": "UPSTREAM_IMAGE_CC0",
+      "license_scope": "Source image preview under applicable upstream CC0 provenance; no new MIT grant.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/assets/images/BR00117015_A02_s1_DNA.png",
+      "category": "UPSTREAM_IMAGE_CC0",
+      "license_scope": "Source image preview under applicable upstream CC0 provenance; no new MIT grant.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/assets/images/BR00117015_A02_s1_RNA.png",
+      "category": "UPSTREAM_IMAGE_CC0",
+      "license_scope": "Source image preview under applicable upstream CC0 provenance; no new MIT grant.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/data.js",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/data.json",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/demo.html",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "explorer/document-routes.json",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "explorer/exports/comparisons.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/comparisons.json",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/full-results.json",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/paired-class-comparisons.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/paired-query-comparisons.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/reference-class-scores.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/reference-query-scores.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/sample-variant-scores.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/samples.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/source-receipts.json",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/variant-class-scores.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/variant-metadata.json",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/variant-query-scores.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/exports/variant-status.csv",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/image-manifest.json",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/images.js",
+      "category": "EXCLUDED_DATA",
+      "license_scope": "Saved scientific values, metadata and exported result content excluded from the new project MIT grant; upstream CC0 where applicable.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/index.html",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A00827783-001-24-6-65e85a4c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A01078468-001-14-8-cdadeae8.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A07207424-001-14-0-b73b5c7d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A08187463-001-12-9-49e9787a.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A09722536-002-18-0-11e27a1b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A10188456-001-04-9-0ef032ac.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A10739734-003-09-8-75bfa282.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A15397381-001-02-5-25a1165d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A18763547-300-06-3-c956b66b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A18992208-003-02-7-32403a48.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A20697603-001-07-2-0d592e6c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A22032524-074-09-9-b83e363e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A22713669-001-04-3-3a646cc6.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A23124853-001-01-4-134f7d1d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A24122750-001-03-7-36036433.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A25569250-001-03-3-a1708b62.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A30815329-001-12-1-f34c5bf6.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A31564021-001-02-6-516b56ed.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A36217750-001-16-3-2abda211.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A37704979-001-12-3-8f896efd.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A43005764-003-01-5-fe7fc722.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A48180038-003-24-3-a4b999c1.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A51831848-001-01-7-4b321830.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A54139254-001-09-2-37eb52ce.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A58048407-001-20-4-43759c7b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A63310107-001-04-8-5001d88f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A63444178-001-01-5-fc69b7dd.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A64173453-015-03-1-524f73bb.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A65597028-003-08-1-7fb687ed.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A69636825-003-04-7-cd017036.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A69651145-003-11-4-a3f81eba.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A72351335-001-04-5-fc54dbbb.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A72483914-001-03-7-5b2385e9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A72767275-003-01-6-4e5accb0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A74391928-051-03-9-4f533f4f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A82396632-008-30-8-fdf880fd.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A83029242-001-06-1-dbaee22e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A84687895-001-03-2-72424c5c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A85242401-001-11-5-b7bbed94.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A86665761-001-01-1-affa563d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A89164055-001-03-3-2e781874.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A91008255-003-24-8-d35474b9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A91822151-001-05-0-30dbd06c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A93477898-001-04-2-e3c3ef3f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-A99888680-001-05-3-59518524.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K00259736-001-16-4-3dbd8da7.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K01666412-001-02-0-a23efcf9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K01824976-300-02-9-6bfd4ca3.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K01825589-310-02-9-5c037676.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K01825660-322-01-9-618fa5bb.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K01825690-065-01-9-9ebdcd8b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K01826724-003-07-9-1ca135c1.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K02490038-236-03-8-d08d67da.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K02554563-001-01-6-8b144900.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K03109492-001-02-2-17fe6609.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K03155172-001-03-0-085d3143.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K03406345-001-21-1-fc32a3cd.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K03601870-001-01-2-168a605e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K04210847-001-21-9-50068c91.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K05531427-001-01-7-0b382455.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K05878375-236-05-7-212c7786.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K06426971-001-02-7-e63d5511.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K06674495-334-04-0-915e35f3.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K06890060-001-09-1-2f12686c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K07442505-001-03-6-9961fa1c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K07762753-001-05-1-1ad2f170.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K07881437-001-03-8-b2575c49.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K08893438-001-06-4-5cb371b7.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K08953028-001-09-6-955779e5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K09143580-001-01-0-70b6dd77.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K09295674-001-09-8-7dae7d25.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K09338665-001-08-9-48dd9ed0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K09787262-001-02-7-598e3bdc.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K10670311-001-17-1-183e0238.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K10843433-001-23-5-4d904f15.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K11558771-001-13-9-d844721d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K11796549-001-05-2-4e75dffc.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K12102668-001-25-5-226682ec.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K12502280-001-11-4-963c9cac.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K13094524-001-04-2-c637d595.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K13533483-001-16-2-97620423.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K14560436-001-01-4-3ee116e3.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K14681867-001-01-6-0f16ed9e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K15179513-001-04-2-3a73c254.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K15502390-001-20-9-03ab42d3.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K15819326-001-01-6-0ea52b02.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K16444452-001-09-1-15671e9f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K16472653-001-01-6-895683ed.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K16542329-001-16-8-d2aa0be5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K16730910-001-07-3-e3e7de7a.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K16761703-001-03-8-1582e91d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K16803204-001-01-6-6d5d2c02.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K16810791-001-01-0-ac9e6f51.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K17849083-001-32-9-d9367ede.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K18131774-001-18-4-593f186c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K18289362-001-02-2-139edbeb.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K18895904-001-16-1-4ee1000f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K19227686-001-18-6-9a6abfa0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K19333160-001-01-3-bd80dddc.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K19477839-001-07-6-c58ab802.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K19975102-001-01-2-9f7dacea.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K20093108-001-02-3-56cf4b03.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K20897876-001-11-8-46d7ac86.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K20986415-001-02-6-e48d44ff.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K21528677-001-04-4-40fe3755.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K21728777-001-02-3-7b7c8ec6.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K22134346-001-22-3-0dba363d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K22149900-001-06-2-65c2d565.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K22482860-001-20-6-bd13e67f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K23363278-001-02-1-aab3cd19.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K23913458-001-20-7-c536aba4.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K24282351-001-01-4-b5e32fe0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K24283677-001-01-9-962d0f9d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K24616672-003-20-1-6db7bf61.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K24696047-001-02-3-f2db0ef0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K25243230-001-01-2-8ec5ab4e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K25244359-066-02-6-55c46d60.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K25311561-001-10-7-08c795f4.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K25412176-001-01-9-9c15bd19.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K26439554-001-01-3-2c27ee72.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K26514105-001-01-7-ef9f3baa.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K26521938-001-07-2-8c001b5b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K26970495-001-02-7-8d6d0872.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K26989966-001-04-3-47fe77a1.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K27539181-001-08-5-99e75223.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K28132190-001-02-0-e4396fc5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K29151923-001-01-5-3493863a.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K29322660-001-01-9-a8710107.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K29530284-001-06-2-80d74bd7.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K29791386-001-01-8-af12b766.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K29895144-001-01-0-87ec8dc7.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K30177383-001-01-0-735a70cd.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K31170746-001-01-6-01cd74c9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K31476763-001-01-5-e3252fcc.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K32292990-001-03-6-2cd79207.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K32730239-001-01-0-84fdd5f8.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K32821942-001-22-1-efe809c1.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K33882852-003-02-8-2e03ea4f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K34581968-001-05-3-99df82a2.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K35498378-001-06-1-1434299f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K36016295-001-05-2-474c3c1e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K36055864-001-20-0-68fd2436.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K36461289-001-05-8-9100870b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K36574127-001-01-3-5c7a663b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K36660044-001-24-2-9ade40c9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K36740062-001-06-6-c70c02d9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K36927236-001-36-7-724394b5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K37355418-236-01-6-e3f41663.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K37385792-003-02-1-73fc3044.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K37602296-001-01-6-b25e63e3.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K37764012-001-03-3-39f6679d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K37864785-001-01-0-6453f8e6.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K38272302-001-02-7-eae7659e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K38512030-001-01-7-420ca678.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K38775274-001-22-1-2f2374bd.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K38852836-001-04-9-c9167c57.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K40109029-001-02-9-7d355de5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K41599323-001-02-3-0fed3aa4.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K42191735-001-08-7-e67a9159.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K42352790-001-05-3-33df80fa.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K43236057-001-07-1-89f25e7f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K43330982-001-02-3-ce6ebf20.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K43570081-001-02-4-c10f65ea.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K44067360-001-29-5-8bb03c88.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K44227013-001-08-0-77ad1bad.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K44432556-001-05-5-a4924b34.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K44771174-066-01-0-eec43a4c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K45293975-001-02-0-ffb6da81.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K45746021-003-01-9-e77a74d8.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K46625559-001-01-8-6b3f9bc2.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K47049295-300-03-1-adf83345.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K47557313-001-02-7-236ebcdc.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K47598052-001-14-1-f35d71c7.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K47738867-001-01-5-0807d441.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K47978074-001-03-2-5b8bd7ba.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K48278478-001-01-2-87e56520.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K48722258-300-11-0-cf3564a9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K48830578-001-01-9-90d580a0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K49223707-001-01-0-482e6c01.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K49350383-001-13-7-5fe405ed.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K50055394-001-03-6-6e4ecd0e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K50199947-001-03-4-d70b2c3b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K50398167-236-22-7-a92a461f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K50495309-001-02-0-f736c0db.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K50498985-001-03-3-c0cf79fc.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K50720187-051-03-1-7352de92.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K50836978-001-03-3-fde6b102.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K51265828-001-01-0-4d247fdf.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K51485109-001-01-4-cb359625.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K51662849-001-05-4-1b1f3593.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K51899933-001-02-6-d195c816.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K52075715-001-06-7-33fb1c4c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K52960356-001-13-0-312043a5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K53061490-003-13-9-dad8f629.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K53234107-001-01-6-3f8504a8.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K53972329-001-01-3-8fb2e422.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K54330070-001-19-6-26df2de4.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K55567017-001-12-3-404c9679.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K55966568-001-09-6-4618e277.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K56740996-001-02-1-a8664e86.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K56810756-003-07-7-52fbf925.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K57313110-001-06-8-00201159.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K57708067-001-01-3-e905931b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K58049875-001-03-9-aae40af0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K58550667-001-08-7-5841b481.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K59058747-001-19-1-ef0d75df.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K59325863-001-04-4-8e76a9bb.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K59632282-052-03-1-0d625674.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K59831625-001-03-9-2ca7c9d0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K60150510-001-15-6-45d99eba.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K60476892-001-16-1-2b4600f7.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K60659193-001-01-0-c8b89854.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K61250553-003-30-6-c8101ece.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K61397605-001-01-8-bbe15c45.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K61642990-001-01-0-a70cab01.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K61688984-001-02-9-eb8eb439.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K61845293-300-01-9-b3d2ee68.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K61918008-001-07-1-5e80389b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K62810658-001-11-4-91f7a958.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K62949423-001-03-1-400c8730.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K63430059-001-16-4-ae94e53d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K64034691-001-01-9-3ee3aa68.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K64054020-001-02-7-6df4d279.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K64800655-001-09-0-016e96f6.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K64890080-001-02-1-df279990.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K66430217-001-03-8-d0018bba.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K66788707-001-14-3-b1fb30b5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K67017579-001-28-1-b1d07a9f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K67637637-003-11-8-138dabce.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K67915505-001-01-2-48b42076.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K68143200-001-11-7-37e231b9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K68164687-001-01-6-f8355cb2.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K68567222-001-01-2-448bc832.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K68982262-001-01-4-f583af65.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K69122748-001-10-1-1f756bdc.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K69877120-001-01-7-86a7f5f1.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K70358946-001-17-3-b5751fc9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K70463136-001-01-5-49e542b7.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K70586315-001-02-4-9d0cd896.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K70778732-003-27-5-2451e96b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K70821460-300-02-4-09b38461.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K71106091-001-09-5-056a4c97.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K72063794-003-01-0-bcf68913.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K72726508-001-02-1-2e7fbd27.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K72815923-034-02-0-4982ca88.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K73276278-305-01-1-52e9d3ec.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K73319509-001-08-0-b18e3129.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K73789395-001-09-9-7ca71b56.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K74514084-003-09-2-5f4f3b94.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K74913225-001-14-0-e8c782ed.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K75390981-300-04-9-cbf8bad9.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K75748943-300-01-3-bd8abb35.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K76037122-001-02-5-4c872cf5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K76674262-001-03-3-80e111cf.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K76792669-001-08-1-b8672eca.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K76908866-001-07-6-adb6838d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K77060810-001-01-5-227aa930.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K77087341-001-02-4-55e9b317.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K77220725-003-01-5-f9da35fd.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K77627880-001-04-0-27ce3819.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K78122587-300-04-3-e1179c87.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K78126613-001-27-7-9621ee13.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K78692225-001-24-5-b565f10a.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K80451230-051-02-6-4161bbfb.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K80666802-003-01-0-33f52f98.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K80935598-001-01-1-c1d6bbfd.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K80970344-201-08-6-e47395c0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K81197548-003-01-4-d6cdd2c5.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K81405859-300-01-4-bd2a224f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K81801188-001-02-8-8f46f7d6.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K82818427-001-04-8-c4525763.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K83896451-001-06-7-f7811873.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K84266862-001-03-2-aa81908f.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K84783599-001-01-0-25f83b94.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K86525559-001-07-8-1472c253.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K86930074-001-05-0-395f024b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K87158025-003-08-7-583d0169.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K87632963-001-03-0-a32be001.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K87691185-001-01-2-df71b474.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K87782578-001-01-4-e9c69268.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K89517477-001-01-4-74400a65.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K90497590-001-05-9-2f4e708d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K90747162-001-01-4-a132baa6.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K91188791-001-17-5-51f67a7c.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K91283740-003-01-6-0ceac923.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K91370081-001-25-1-7593a78e.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K91456750-001-01-9-e99d0513.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K91535048-001-01-2-11d4f737.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K91543828-001-02-0-8c328086.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K91822704-003-07-2-77d10a70.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K91825936-001-03-9-02134f47.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K92049597-001-20-8-0f55f702.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K93632104-001-17-2-a40c3551.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K93779381-001-01-9-021a456d.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K93788137-001-04-1-0f71fb38.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K93942811-001-01-3-81bdbfab.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K94342292-001-01-3-86ef7339.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K94863486-001-02-2-6bb31fb1.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K95785537-001-22-3-bf7b6a87.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K97010173-001-04-1-d3bb2290.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K97072811-001-11-4-643510c2.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K97091514-001-11-4-08aee1ed.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K97181089-003-24-7-ccd7fee0.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K98357249-001-02-9-16435d18.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K98763141-001-30-8-3639392b.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/BRD-K99616396-316-05-3-daba6432.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/sample-reports/DMSO-b2ce7b81.html",
+      "category": "MIXED",
+      "license_scope": "Project-owned HTML/UI presentation is MIT; embedded or displayed scientific values, metadata and microscopy retain their separate upstream/data status.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "explorer/styles.css",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "index.html",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "notices/CPJUMP1-BSD-3-Clause.md",
+      "category": "UPSTREAM_NOTICE",
+      "license_scope": "Original upstream notice text, unchanged; not relicensed by this project.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "notices/CPJUMP1-CC0.md",
+      "category": "UPSTREAM_NOTICE",
+      "license_scope": "Original upstream notice text, unchanged; not relicensed by this project.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "notices/Cell-Painting-Gallery-LICENSE.txt",
+      "category": "UPSTREAM_NOTICE",
+      "license_scope": "Original upstream notice text, unchanged; not relicensed by this project.",
+      "notice_paths": [
+        "notices/CPJUMP1-CC0.md",
+        "notices/CPJUMP1-BSD-3-Clause.md",
+        "notices/Cell-Painting-Gallery-LICENSE.txt"
+      ]
+    },
+    {
+      "path": "scripts/serve_explorer.py",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    },
+    {
+      "path": "scripts/verify_public_candidate.py",
+      "category": "MIT_PROJECT_OWNED_PORTIONS",
+      "license_scope": "MIT for project-owned code, prose and package metadata only; no grant over separately identified data or third-party material.",
+      "notice_paths": [
+        "LICENSE",
+        "LICENSE_SCOPE.md"
+      ]
+    }
+  ]
+}

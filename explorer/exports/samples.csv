@@ -1,0 +1,308 @@
+sample_id,source_name,source_inchikey,source_control_type,identity_flag,flags,reference_mean_average_precision,reference_query_count,reference_status,exact_source_pubchem_cid
+BRD-A00827783-001-24-6,dyphylline,KSCFJBIXMNOVSH-UHFFFAOYSA-N,,False,,0.27907964217746828,4,ASSESSED,3182
+BRD-A01078468-001-14-8,hexestrol,PBBGSZCBWVPOOL-UHFFFAOYSA-N,,False,,0.72361111111111109,4,ASSESSED,3606
+BRD-A07207424-001-14-0,Ro-20-1724,PDMUULPVBYQBBK-UHFFFAOYSA-N,,False,,0.39325396825396824,4,ASSESSED,5087
+BRD-A08187463-001-12-9,racecadotril,ODUOJXZPIYUATO-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.72916666666666663,4,ASSESSED,107751
+BRD-A09722536-002-18-0,cyclophosphamide,CMSMOCZEIVJLDB-UHFFFAOYSA-N,,False,,0.59166666666666656,4,ASSESSED,2907
+BRD-A10188456-001-04-9,dexamethasone,UREBDLICKHMUKA-QCYOSJOCSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5702035
+BRD-A10739734-003-09-8,efaroxan,RATZLMXRALDSJW-UHFFFAOYSA-N,,False,,0.20626112681780326,4,ASSESSED,72016
+BRD-A15397381-001-02-5,L-Cystine,LEVWYRKDKASIDU-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.25872763735666959,4,ASSESSED,24798687
+BRD-A18763547-300-06-3,BAX-channel-blocker,KUUJEXLRLIPQQJ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,2729027
+BRD-A18992208-003-02-7,lercanidipine,ZDXUKAKRHYTAKV-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.9375,4,ASSESSED,65866
+BRD-A20697603-001-07-2,thiostrepton,NSFFHOGKXHRQEW-DVRIZHICSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,101290202
+BRD-A22032524-074-09-9,amlodipine,HTIQEAQVCYTUBX-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,2162
+BRD-A22713669-001-04-3,BVT-948,AJVXVYTVAAWZAP-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.86250000000000004,4,ASSESSED,44483339
+BRD-A23124853-001-01-4,PF-06463922,IIXWYSCJSQVBQM-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,78162481
+BRD-A24122750-001-03-7,saclofen,JYLNVJYYQQXNEK-UHFFFAOYSA-N,,False,,0.27840758778258778,4,ASSESSED,122150
+BRD-A25569250-001-03-3,KI-16425,LLIFMNUXGDHTRO-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,10367662
+BRD-A30815329-001-12-1,felodipine,RZTAMFZIAATZDJ-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.88293650793650791,4,ASSESSED,3333
+BRD-A31564021-001-02-6,isoflurane,PIWKPBJCKXDKJR-UHFFFAOYSA-N,,False,,0.48343704906204898,4,ASSESSED,3763
+BRD-A36217750-001-16-3,sulfinpyrazone,MBGGBVCUIVRRBF-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.45902777777777776,4,ASSESSED,5342
+BRD-A37704979-001-12-3,SB-203580,CDMGBJANTYXAIV-UHFFFAOYSA-N,poscon_orf,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,176155
+BRD-A43005764-003-01-5,CYM-5442,NUIKTBLZSPQGCP-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,25110406
+BRD-A48180038-003-24-3,trihexyphenidyl,HWHLPVGTWGOCJO-UHFFFAOYSA-N,,False,,0.68125000000000002,4,ASSESSED,5572
+BRD-A51831848-001-01-7,enflurane,JPGQOUSTVILISH-UHFFFAOYSA-N,,False,,0.43988095238095237,4,ASSESSED,3226
+BRD-A54139254-001-09-2,4-CMTB,AZYDQCGCBQYFSE-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.71944444444444444,4,ASSESSED,4307629
+BRD-A58048407-001-20-4,nimodipine,UIAGMCDKSXEBJQ-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.54154224409061869,4,ASSESSED,4497
+BRD-A63310107-001-04-8,miglitol,IBAQFPQHRJAVAV-WMEPKMGJSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.93055555555555547,4,ASSESSED,6710690
+BRD-A63444178-001-01-5,ME-0328,QIHBWVVVRYYYRO-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.44580370609782372,4,ASSESSED,51147633
+BRD-A64173453-015-03-1,octreotide,DEQANNDTNATYII-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.21152093987072057,4,ASSESSED,383414
+BRD-A65597028-003-08-1,RX-821002,HQGWKNGAKBPTBX-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.88988095238095233,4,ASSESSED,108094
+BRD-A69636825-003-04-7,diltiazem,HSUGRBWQSSZJOP-UHFFFAOYSA-N,,False,,1,4,ASSESSED,3076
+BRD-A69651145-003-11-4,minocycline,ZZZRUAITSXLWBH-CSYJEMQYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.41080953646743118,4,ASSESSED,54575046
+BRD-A72351335-001-04-5,misoprostol,OJLOPKGSLYJEMD-URPKTTJQSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5282381
+BRD-A72483914-001-03-7,spiroxatrine,JVGBTTIJPBFLTE-UHFFFAOYSA-N,,False,,0.31251097935880545,4,ASSESSED,5268
+BRD-A72767275-003-01-6,nalmefene,WJBLNOPPDWQMCH-UHFFFAOYSA-N,,False,,0.4996031746031746,4,ASSESSED,4422
+BRD-A74391928-051-03-9,ibutilide,ALOBUEHUHMBRLE-UHFFFAOYSA-N,,False,,1,4,ASSESSED,60753
+BRD-A82396632-008-30-8,miconazole,BYBLEWFAAKGYCD-UHFFFAOYSA-N,,False,,0.79365079365079361,4,ASSESSED,4189
+BRD-A83029242-001-06-1,prasugrel,DTGLZDAWLRGWQN-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.50972222222222219,4,ASSESSED,6918456
+BRD-A84687895-001-03-2,nilvadipine,FAIIFDPAEUKBEP-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.82777777777777783,4,ASSESSED,4494
+BRD-A85242401-001-11-5,ascorbic-acid,KRGQEOSDQHTZMX-IGCYCDGOSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.5176587301587301,4,ASSESSED,9888239
+BRD-A86665761-001-01-1,gabapentin-enacarbil,TZDUHAJSIBHXDL-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.91805555555555551,4,ASSESSED,9883933
+BRD-A89164055-001-03-3,sorbinil,LXANPKRCLVQAOG-UHFFFAOYSA-N,,False,,0.54978632478632472,4,ASSESSED,5252
+BRD-A91008255-003-24-8,bepridil,UIEATEWHFDRYRU-UHFFFAOYSA-N,,False,,1,4,ASSESSED,2351
+BRD-A91822151-001-05-0,picrotin,RYEFFICCPKWYML-UHFFFAOYSA-N,,False,,0.63809523809523805,4,ASSESSED,4815
+BRD-A93477898-001-04-2,PETCM,NGTDJJKTGRNNAU-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.50277777777777777,4,ASSESSED,224859
+BRD-A99888680-001-05-3,paliperidone,PMXMIIMHBWHSKN-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.50953686299081036,4,ASSESSED,115237
+BRD-K00259736-001-16-4,colchicine,IAKHMKGGTNLKSZ-INIZCTEOSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,6167
+BRD-K01666412-001-02-0,L-proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.3966833955804544,4,ASSESSED,145742
+BRD-K01824976-300-02-9,puromycin,RXWNCPJZOCPEPQ-DYKMBDCPSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5702164
+BRD-K01825589-310-02-9,terazosin,VCKUSRYTPJJLNI-UHFFFAOYSA-N,,False,,0.25421715847052445,4,ASSESSED,5401
+BRD-K01825660-322-01-9,nicotine,SNICXCGAKADSCV-UHFFFAOYSA-N,,False,,0.33239281430070899,4,ASSESSED,942
+BRD-K01825690-065-01-9,enilconazole,PZBPKYOVPCNPJY-UHFFFAOYSA-N,,False,,0.80138888888888893,4,ASSESSED,37175
+BRD-K01826724-003-07-9,baclofen,KPYSYYIEGFHWSV-UHFFFAOYSA-N,,False,,0.45580484330484328,4,ASSESSED,2284
+BRD-K02490038-236-03-8,BQ-788,LPAHKJMGDSJDRG-DJYQTOCQSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.27586167100872983,4,ASSESSED,5311032
+BRD-K02554563-001-01-6,PF-05190457,ZIUDADZJCKGWKR-AREMUKBSSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.97916666666666663,4,ASSESSED,58438464
+BRD-K03109492-001-02-2,NSC-663284,BMKPVDQDJQWBPD-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,379077
+BRD-K03155172-001-03-0,GSK3787,JFUIMTGOQCQTPF-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.4519570707070707,4,ASSESSED,2800647
+BRD-K03406345-001-21-1,azacitidine,NMUSYJAQQFHJEW-KVTDHHQDSA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,8,ASSESSED,9444
+BRD-K03601870-001-01-2,ixabepilone,FABUFPQFXZVHFB-PVYNADRNSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,6445540
+BRD-K04210847-001-21-9,afimoxifene,TXUZVZSFRXZGTL-QPLCGJKRSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.97916666666666663,4,ASSESSED,449459
+BRD-K05531427-001-01-7,briciclib,LXENKEWVEVKKGV-BQYQJAHWSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11248490
+BRD-K05878375-236-05-7,sodium-butyrate,FERIUCNNQQJTOY-UHFFFAOYSA-N,,False,,0.92500000000000004,4,ASSESSED,264
+BRD-K06426971-001-02-7,ryuvidine,HFPLHASLIOXVGS-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,481747
+BRD-K06674495-334-04-0,nafamostat,MQQNFDZXWVTQEH-UHFFFAOYSA-N,,False,,1,4,ASSESSED,4413
+BRD-K06890060-001-09-1,alda-1,NMKJFZCBCIUYHI-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.38659835534835535,4,ASSESSED,831629
+BRD-K07442505-001-03-6,BAM7,KOCVKGYKBLJEPK-LYBHJNIJSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.75,4,ASSESSED,5754137
+BRD-K07762753-001-05-1,aminopurvalanol-a,RAMROQQYRRQPDL-HNNXBMFYSA-N,poscon_orf,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,6604931
+BRD-K07881437-001-03-8,danusertib,XKFTZKGMDDZMJI-HSZRJFAPSA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,11442891
+BRD-K08893438-001-06-4,CCG-50014,QUIIIYITNGOFEI-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.45087759462759458,4,ASSESSED,2733079
+BRD-K08953028-001-09-6,U-0521,VDQLKIBLTMPAHI-UHFFFAOYSA-N,,False,,1,4,ASSESSED,21632
+BRD-K09143580-001-01-0,AK-7,IYAYHZZWYNXHEQ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,1328033
+BRD-K09295674-001-09-8,carzenide,UCAGLBKTLXCODC-UHFFFAOYSA-N,,False,,1,4,ASSESSED,8739
+BRD-K09338665-001-08-9,1-octanol,KBPLFHHGFOOTCA-UHFFFAOYSA-N,,False,,0.44613095238095235,4,ASSESSED,957
+BRD-K09787262-001-02-7,TCN201,FYIBXBFDXNPBSF-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.5751225490196078,4,ASSESSED,4787937
+BRD-K10670311-001-17-1,sulfasalazine,NCEXYHBECQHGNR-QZQOTICOSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.86250000000000004,4,ASSESSED,
+BRD-K10843433-001-23-5,phenylbutazone,VYMDGNCVAMGZFE-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.70744949494949494,4,ASSESSED,4781
+BRD-K11558771-001-13-9,droxinostat,JHSXDAWGLCZYSM-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,568416
+BRD-K11796549-001-05-2,NBQX,UQNAFPHGVPVTAL-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.57914635072529808,4,ASSESSED,3272524
+BRD-K12102668-001-25-5,nialamide,NOIIUHRQUVNIDD-UHFFFAOYSA-N,,False,,0.45228174603174598,4,ASSESSED,4472
+BRD-K12502280-001-11-4,TG-101348,JOOXLOJCABQBSG-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,16722836
+BRD-K13094524-001-04-2,PFI-1,TXZPMHLMPKIUGK-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,71271629
+BRD-K13533483-001-16-2,cyclosporine,PMATZTZNYRCHOR-CGLBZJNRSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5284373
+BRD-K14560436-001-01-4,TG-02,VXBAJLGYBMTJCY-NSCUHMNNSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,16739650
+BRD-K14681867-001-01-6,somatostatin,NHXLMOGPVYXJNR-ATOGVRKGSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.7222222222222221,4,ASSESSED,101826531
+BRD-K15179513-001-04-2,NVP-ADW742,LSFLAQVDISHMNB-AFARHQOCSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,
+BRD-K15502390-001-20-9,nevirapine,NQDJXKOVJZTUJA-UHFFFAOYSA-N,,False,,0.49722222222222218,4,ASSESSED,4463
+BRD-K15819326-001-01-6,AC-710,JVCWPUFNLFSKFS-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,54760053
+BRD-K16444452-001-09-1,ibudilast,ZJVFLBOZORBYFE-UHFFFAOYSA-N,,False,,0.7583333333333333,4,ASSESSED,3671
+BRD-K16472653-001-01-6,SirReal-2,MENNDDDTIIZDDN-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.97916666666666663,4,ASSESSED,1096292
+BRD-K16542329-001-16-8,zaprinast,REZGGXNDEMKIQB-UHFFFAOYSA-N,,False,,0.82916666666666661,4,ASSESSED,5722
+BRD-K16730910-001-07-3,regorafenib,FNHKPVJBJVTLMP-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11167602
+BRD-K16761703-001-03-8,sotrastaurin,OAVGBZOFDPFGPJ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,10296883
+BRD-K16803204-001-01-6,filgotinib,RIJLVEAXPNLDTC-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,49831257
+BRD-K16810791-001-01-0,LGK-974,XXYGTCZJJLTAGH-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,46926973
+BRD-K17849083-001-32-9,tranilast,NZHGWWWHIYHZNX-CSKARUKUSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.85138888888888886,4,ASSESSED,5282230
+BRD-K18131774-001-18-4,ethoxzolamide,OUZWUKMCLIBBOG-UHFFFAOYSA-N,,False,,0.66597222222222219,4,ASSESSED,3295
+BRD-K18289362-001-02-2,PF-915275,ZESFDAKNYJQYKO-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.49470899470899471,4,ASSESSED,23725123
+BRD-K18895904-001-16-1,olanzapine,KVWDHTXUZHCGIO-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.80793650793650795,4,ASSESSED,
+BRD-K19227686-001-18-6,phenolphthalein,KJFMBFZCATUALV-UHFFFAOYSA-N,,False,,0.28088592556269898,4,ASSESSED,4764
+BRD-K19333160-001-01-3,RKI-1447,GDVRVPIXWXOKQO-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,60138149
+BRD-K19477839-001-07-6,SGX523,BCZUAADEACICHN-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.62386039886039879,4,ASSESSED,24779724
+BRD-K19975102-001-01-2,GNF-5837,YYDUWLSETXNJJT-MTJSOVHGSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,59397065
+BRD-K20093108-001-02-3,BMS-587101,NXNKJLOEGWSJGI-BKMJKUGQSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.48815789473684212,4,ASSESSED,11635371
+BRD-K20897876-001-11-8,castanospermine,JDVVGAQPNNXQDW-TVNFTVLESA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.21222508469791077,4,ASSESSED,54445
+BRD-K20986415-001-02-6,RGB-286638,XLSYZSRXVVCHLS-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11285002
+BRD-K21528677-001-04-4,desonide,WBGKWQHBNHJJPZ-LECWWXJVSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5311066
+BRD-K21728777-001-02-3,AMG900,IVUGFMLRJOCGAS-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,24856041
+BRD-K22134346-001-22-3,simvastatin,RYMZZMVNJRMUDD-HGQWONQESA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.86111111111111116,4,ASSESSED,54454
+BRD-K22149900-001-06-2,ceritinib,VERWOWGGCGHDQE-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,57379345
+BRD-K22482860-001-20-6,dalfampridine,NUKYPUAOHBNCPY-UHFFFAOYSA-N,,False,,0.46111111111111114,4,ASSESSED,1727
+BRD-K23363278-001-02-1,CYT-997,MTJHLONVHHPNSI-IBGZPJMESA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,11351021
+BRD-K23913458-001-20-7,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,,False,,0.36299603174603173,4,ASSESSED,323
+BRD-K24282351-001-01-4,TUG-891,LPGBXHWIQNZEJB-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.53175505050505045,4,ASSESSED,57522038
+BRD-K24283677-001-01-9,ME-0328,QIHBWVVVRYYYRO-ZDUSSCGKSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.34794406981906978,4,ASSESSED,71571526
+BRD-K24616672-003-20-1,procaine,MFDFERRIHVXMIY-UHFFFAOYSA-N,,False,,0.63214285714285712,4,ASSESSED,4914
+BRD-K24696047-001-02-3,NVP-AEW541,AECDBHGVIIRMOI-GRGXKFILSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,
+BRD-K25243230-001-01-2,oxytocin,XNOPRXBHLZRZKH-DSZYJQQASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.26656370250120254,4,ASSESSED,439302
+BRD-K25244359-066-02-6,apatinib,WPEWQEMJFLWMLV-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11315474
+BRD-K25311561-001-10-7,KU-55933,XRKYMMUGXMWDAO-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5278396
+BRD-K25412176-001-01-9,GSK2110183,AFJRDFWMXUECEW-LBPRGKRZSA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,46843057
+BRD-K26439554-001-01-3,H2L-5765834,HFYPTENHTPNXGP-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.54265873015873023,4,ASSESSED,1365686
+BRD-K26514105-001-01-7,GSK-37647,FQUAFMNPXPXOJE-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.30906337814232554,4,ASSESSED,743974
+BRD-K26521938-001-07-2,dinoprostone,XEYBRNLFEZDVAW-ARSRFYASSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.45106951871657752,4,ASSESSED,5280360
+BRD-K26970495-001-02-7,CCG-63802,VFSVKVQMZDJFQX-NBVRZTHBSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,6057678
+BRD-K26989966-001-04-3,UNC1999,DPJNKUOXBZSZAI-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,72551585
+BRD-K27539181-001-08-5,ML-193,HTSLEZOTMYUPLU-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.90972222222222221,4,ASSESSED,1261822
+BRD-K28132190-001-02-0,NVS-PAK1-1,OINGHOPGNMYCAB-INIZCTEOSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,122187564
+BRD-K29151923-001-01-5,CYM-5520,FMYGNANMYYHBSU-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.25010819089766456,4,ASSESSED,25110470
+BRD-K29322660-001-01-9,edoxaban,HGVDHZBSSITLCT-KMFMINBZSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.58214285714285707,4,ASSESSED,49822384
+BRD-K29530284-001-06-2,amlexanox,SGRYPYWGNKJSDL-UHFFFAOYSA-N,,False,,0.32977014933536669,4,ASSESSED,2161
+BRD-K29791386-001-01-8,"2,5-furandimethanol",DSLRVRBSNLHVBH-UHFFFAOYSA-N,,False,,0.26767189781895667,4,ASSESSED,74663
+BRD-K29895144-001-01-0,SKLB1002,RQVGFDBMONQTBC-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,71461003
+BRD-K30177383-001-01-0,dalbavancin,KGPGQDLTDHGEGT-SZUNQUCBSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.24992867517377321,4,ASSESSED,16134627
+BRD-K31170746-001-01-6,ANR-94,QUGDTMONBLMLLD-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.61904761904761907,4,ASSESSED,11805896
+BRD-K31476763-001-01-5,AZD9668,QNQZWEGMKJBHEM-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.73115079365079361,4,ASSESSED,46861623
+BRD-K32292990-001-03-6,CGP-53353,RONQPWQYDRPRGG-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.72966269841269837,4,ASSESSED,6711154
+BRD-K32730239-001-01-0,SU3327,NQQBNZBOOHHVQP-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11837140
+BRD-K32821942-001-22-1,azathioprine,LMEKQMALGUDUQG-UHFFFAOYSA-N,,False,,0.95833333333333326,4,ASSESSED,2265
+BRD-K33882852-003-02-8,ZK-93423,ALBKMJDFBZVHAK-UHFFFAOYSA-N,poscon_diverse,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.99298469387755106,8,ASSESSED,121926
+BRD-K34581968-001-05-3,BMS-536924,ZWVZORIKUNOTCS-OAQYLSRUSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,
+BRD-K35498378-001-06-1,alrestatin,GCUCIFQCGJIRNT-UHFFFAOYSA-N,,False,,0.58750000000000002,4,ASSESSED,2120
+BRD-K36016295-001-05-2,KU-60019,SCELLOWTHJGVIC-BGYRXZFFSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,15953870
+BRD-K36055864-001-20-0,cycloheximide,YPHMISFOHDHNIV-FSZOTQKASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,6197
+BRD-K36461289-001-05-8,picrotoxinin,PIMZUZSSNYHVCU-KBLUICEQSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.72480158730158728,4,ASSESSED,7098683
+BRD-K36574127-001-01-3,LOXO-101,NYNZQNWKBKUAII-KBXCAEBGSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.80932539682539684,4,ASSESSED,46188928
+BRD-K36660044-001-24-2,bufexamac,MXJWRABVEGLYDG-UHFFFAOYSA-N,,False,,0.50030663780663787,4,ASSESSED,2466
+BRD-K36740062-001-06-6,GSK1070916,QTBWCSQGBMPECM-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,46885626
+BRD-K36927236-001-36-7,glyburide,ZNNLBTZKUZBEKO-UHFFFAOYSA-N,,False,,0.76666666666666661,4,ASSESSED,3488
+BRD-K37355418-236-01-6,efaproxiral,BNFRJXLZYUTIII-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.86111111111111116,4,ASSESSED,122335
+BRD-K37385792-003-02-1,conivaptan,IKENVDNFQMCRTR-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,151171
+BRD-K37602296-001-01-6,NS-309,CVOUSAVHMDXCKG-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.68432539682539684,4,ASSESSED,11637204
+BRD-K37764012-001-03-3,PF-03758309,AYCPARAPKDAOEN-LJQANCHMSA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.43580938436429284,8,ASSESSED,25227462
+BRD-K37864785-001-01-0,GW-311616,NDNKNUMSTIMSHQ-URZKGLGPSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.96666666666666667,4,ASSESSED,9800961
+BRD-K38272302-001-02-7,GK921,MNYJJHBAEYKXEG-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,56682080
+BRD-K38512030-001-01-7,rifamycin,HJYYPODYNSCCOU-ODRIEIDWSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.44841269841269837,4,ASSESSED,6324616
+BRD-K38775274-001-22-1,dexamethasone,UREBDLICKHMUKA-CXSFZGCWSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,5743
+BRD-K38852836-001-04-9,ganetespib,RVAQIUULWULRNW-UHFFFAOYSA-N,poscon_diverse,False,,1,8,ASSESSED,
+BRD-K40109029-001-02-9,SB-505124,WGZOTBUYUFBEPZ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,9858940
+BRD-K41599323-001-02-3,lonafarnib,DHMTURDWPRKSOA-RUZDIDTESA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,148195
+BRD-K42191735-001-08-7,buparlisib,CWHUFRVAEUJCEF-UHFFFAOYSA-N,poscon_diverse,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,16654980
+BRD-K42352790-001-05-3,anandamide,LGEQQWMQCRIYKG-DOFZRALJSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.52045454545454539,4,ASSESSED,5281969
+BRD-K43236057-001-07-1,polydatin,HSTZMXCBWJGKHG-CUYWLFDKSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5281718
+BRD-K43330982-001-02-3,JTE-013,RNSLRQNDXRSASX-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,10223146
+BRD-K43570081-001-02-4,geldanamycin,QTQAWLPCGQOSGP-PHLMVCJGSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,13017912
+BRD-K44067360-001-29-5,flufenamic-acid,LPEPZBJOKDYZAD-UHFFFAOYSA-N,,False,,0.80555555555555558,4,ASSESSED,3371
+BRD-K44227013-001-08-0,ponatinib,PHXJVRSECIGDHY-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,24826799
+BRD-K44432556-001-05-5,ML-228,QNRODODTMXCRKU-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.68154761904761896,4,ASSESSED,46742353
+BRD-K44771174-066-01-0,ibutamoren,UMUPQWIGCOZEOY-JOCHJYFZSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,178024
+BRD-K45293975-001-02-0,7-hydroxystaurosporine,PBCZSGKMGDDXIJ-KRUBCLEUSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,3078519
+BRD-K45746021-003-01-9,CC-401,XDJCLCLBSGGNKS-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,10430360
+BRD-K46625559-001-01-8,ozanimod,XRVDGNKRPOAQTN-FQEVSTJZSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,52938427
+BRD-K47049295-300-03-1,BAN-ORL-24,MAKMQGKJURAJEN-RUZDIDTESA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,10296561
+BRD-K47557313-001-02-7,LY2109761,IHLVSLOZUHKNMQ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11655119
+BRD-K47598052-001-14-1,PP-1,ZVPDNRVYHLRXLX-UHFFFAOYSA-N,,False,,1,4,ASSESSED,1400
+BRD-K47738867-001-01-5,ethyl-pyruvate,XXRCUYVCPSWGCC-UHFFFAOYSA-N,,False,,0.61488095238095242,4,ASSESSED,12041
+BRD-K47978074-001-03-2,trometamol,LENZDBCJOHFCAS-UHFFFAOYSA-N,,False,,0.49415584415584413,4,ASSESSED,6503
+BRD-K48278478-001-01-2,quinine,LOUPRKONTZGTKE-AFHBHXEDSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.78749999999999998,4,ASSESSED,94175
+BRD-K48722258-300-11-0,dilazep,QVZCXCJXTMIDME-UHFFFAOYSA-N,,False,,0.79444444444444451,4,ASSESSED,3074
+BRD-K48830578-001-01-9,OMDM-2,ICDMLAQPOAVWNH-HAAQQRBASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.607936507936508,4,ASSESSED,6604915
+BRD-K49223707-001-01-0,arundic-acid,YCYMCMYLORLIJX-SNVBAGLBSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.70079365079365075,4,ASSESSED,208925
+BRD-K49350383-001-13-7,thioguanine,WYWHKKSPHMUBEB-UHFFFAOYSA-N,poscon_diverse,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,2723601
+BRD-K50055394-001-03-6,halopemide,NBHPRWLFLUBAIE-UHFFFAOYSA-N,,False,,1,4,ASSESSED,65490
+BRD-K50199947-001-03-4,WH-4-023,NBTNHSGBRGTFJS-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11844351
+BRD-K50398167-236-22-7,meclofenamic-acid,SBDNJUWAMKYJOX-UHFFFAOYSA-N,,False,,0.74404761904761907,4,ASSESSED,4037
+BRD-K50495309-001-02-0,SRC-kinase-inhibitor-I,DMWVGXGXHPOEPT-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,1474853
+BRD-K50498985-001-03-3,taladegib,SZBGQDXLNMELTB-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.84960317460317458,4,ASSESSED,49848070
+BRD-K50720187-051-03-1,flupirtine,JUUFBMODXQKSTD-UHFFFAOYSA-N,,False,,1,4,ASSESSED,53276
+BRD-K50836978-001-03-3,purvalanol-a,PMXCMJLOPOFPBT-HNNXBMFYSA-N,poscon_orf,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,456214
+BRD-K51265828-001-01-0,M-25,WATNXVHKRRTUFK-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.55795636968237583,4,ASSESSED,44250034
+BRD-K51485109-001-01-4,LDN-27219,WLBUICQBNZXIDJ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.65992871507577389,4,ASSESSED,1150683
+BRD-K51662849-001-05-4,ilomastat,NITYDPDXAAFEIT-DYVFJYSZSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.93055555555555558,4,ASSESSED,132519
+BRD-K51899933-001-02-6,azeliragon,KJNNWYBAOPXVJY-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11180124
+BRD-K52075715-001-06-7,oxibendazole,RAOCRURYZCVHMG-UHFFFAOYSA-N,,False,,1,4,ASSESSED,4622
+BRD-K52960356-001-13-0,acetohexamide,VGZSUPCWNCWDAN-UHFFFAOYSA-N,,False,,0.93055555555555558,4,ASSESSED,1989
+BRD-K53061490-003-13-9,ozagrel,SHZKQBHERIJWAO-AATRIKPKSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.36461904789110672,4,ASSESSED,5282440
+BRD-K53234107-001-01-6,IWP-L6,QESQGTFWEQMCMH-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,71601111
+BRD-K53972329-001-01-3,ruxolitinib,HFNKQEVNSGCOJV-OAHLLOKOSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,25126798
+BRD-K54330070-001-19-6,SB-202190,QHKYPYXTTXKZST-UHFFFAOYSA-N,poscon_orf,False,,1,4,ASSESSED,
+BRD-K55567017-001-12-3,formononetin,HKQYGTCOTHHOMP-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5280378
+BRD-K55966568-001-09-6,orantinib,NHFDRBXTEDBWCZ-ZROIWOOFSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.95138888888888884,4,ASSESSED,5329099
+BRD-K56740996-001-02-1,flindokalner,ULYONBAOIMCNEH-HNNXBMFYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.47715548340548336,4,ASSESSED,214350
+BRD-K56810756-003-07-7,fomepizole,RIKMMFOAQPJVMX-UHFFFAOYSA-N,,False,,0.2147295603783333,4,ASSESSED,3406
+BRD-K57313110-001-06-8,pidolic-acid,ODHCTXKNWHHXJC-VKHMYHEASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.52916666666666656,4,ASSESSED,7405
+BRD-K57708067-001-01-3,TFC-007,NLSSUSRERAMBTA-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.48472222222222217,4,ASSESSED,16040067
+BRD-K58049875-001-03-9,thiostrepton,NSFFHOGKXHRQEW-AIHSUZKVSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,16154490
+BRD-K58550667-001-08-7,FK-866,KPBNHDGDUADAGP-VAWYXSNFSA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,6914657
+BRD-K59058747-001-19-1,acetylcysteine,PWKSKIMOESPYIA-BYPYZUCNSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.61904761904761907,4,ASSESSED,12035
+BRD-K59325863-001-04-4,delanzomib,SJFBTAPEPRWNKH-CCKFTAQKSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,24800541
+BRD-K59632282-052-03-1,quinidine,LOUPRKONTZGTKE-LHHVKLHASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.97916666666666663,4,ASSESSED,441074
+BRD-K59831625-001-03-9,LDN-212854,BBDGBGOVJPEFBT-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,60182388
+BRD-K60150510-001-15-6,N6-cyclopentyladenosine,SQMWSBKSHWARHU-SDBHATRESA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.42933873972104852,4,ASSESSED,657378
+BRD-K60476892-001-16-1,YC-1,OQQVFCKUDYMWGV-UHFFFAOYSA-N,,False,,0.69999999999999996,4,ASSESSED,5712
+BRD-K60659193-001-01-0,CVT-10216,YYOOFJZTRCPVFD-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.31448412698412698,4,ASSESSED,23661666
+BRD-K61250553-003-30-6,loperamide,RDOIQAHITMMDAJ-UHFFFAOYSA-N,,False,,1,4,ASSESSED,3955
+BRD-K61397605-001-01-8,romidepsin,OHRURASPPZQGQM-GCCNXGTGSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5352062
+BRD-K61642990-001-01-0,FERb-033,LRRMQNGSYOUANY-OMCISZLKSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.65740740740740733,4,ASSESSED,
+BRD-K61688984-001-02-9,RGFP966,BLVQHYHDYFTPDV-VCABWLAWSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,56650312
+BRD-K61845293-300-01-9,DDR1-IN-1,AOZPVMOOEJAZGK-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,72836888
+BRD-K61918008-001-07-1,NQDI-1,UFJGFNHRMPMALC-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.97916666666666663,4,ASSESSED,5522952
+BRD-K62810658-001-11-4,PD-98059,QFWCYNPOPKQOKV-UHFFFAOYSA-N,poscon_orf,False,,1,4,ASSESSED,4713
+BRD-K62949423-001-03-1,NSC-625987,KFAKESMKRPNZTM-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.65625,4,ASSESSED,3004085
+BRD-K63430059-001-16-4,methoxsalen,QXKHYNVANLEOEG-UHFFFAOYSA-N,,False,,0.48453599138381742,4,ASSESSED,4114
+BRD-K64034691-001-01-9,acalabrutinib,WDENQIQQYWYTPO-IBGZPJMESA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.77222222222222214,4,ASSESSED,71226662
+BRD-K64054020-001-02-7,epoprostenol,KAQKFAOMNZTLHT-OZUDYXHBSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.42529761904761904,4,ASSESSED,5282411
+BRD-K64800655-001-09-0,PHA-793887,HUXYBQXJVXOMKX-UHFFFAOYSA-N,poscon_diverse,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,46191454
+BRD-K64890080-001-02-1,BI-2536,XQVVPGYIWAGRNI-JOCHJYFZSA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,11364421
+BRD-K66430217-001-03-8,KH-CB19,CXJCGSPAPOTTSF-VURMDHGXSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.67847222222222225,4,ASSESSED,44237094
+BRD-K66788707-001-14-3,fludarabine,HBUBKKRHXORPQB-FJFJXFQQSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,657237
+BRD-K67017579-001-28-1,cilostazol,RRGUKTPIGVIEKM-UHFFFAOYSA-N,,False,,0.59404761904761905,4,ASSESSED,2754
+BRD-K67637637-003-11-8,olopatadine,JBIMVDZLSHOPLA-LSCVHKIXSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.5756944444444444,4,ASSESSED,25271818
+BRD-K67915505-001-01-2,NVP-HSP990,WSMQUUGTQYPVPD-OAHLLOKOSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,46216556
+BRD-K68143200-001-11-7,NSC-95397,MAASHDQFQDDECQ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,262093
+BRD-K68164687-001-01-6,epothilone-b,QXRSDHAAWVKZLJ-AXCXJGFASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,129010071
+BRD-K68567222-001-01-2,BVT-948,LLPBUXODFQZPFH-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,6604934
+BRD-K68982262-001-01-4,A-987306,DJKJVWJQAVGLHJ-YPMHNXCESA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.64768170426065175,4,ASSESSED,25109291
+BRD-K69122748-001-10-1,diacerein,TYNLGDBUJLVSMA-UHFFFAOYSA-N,,False,,0.60367063492063489,4,ASSESSED,26248
+BRD-K69877120-001-01-7,CYM-50260,FHPOTBQOUBMMCI-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.92083333333333328,4,ASSESSED,44620894
+BRD-K70358946-001-17-3,aripiprazole,CEUORZQYGODEFX-UHFFFAOYSA-N,,False,,0.87996031746031744,4,ASSESSED,60795
+BRD-K70463136-001-01-5,BAY-87-2243,CDJNNOJINJAXPV-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,67377767
+BRD-K70586315-001-02-4,1-EBIO,CXUCKELNYMZTRT-UHFFFAOYSA-N,,False,,0.47807539682539679,4,ASSESSED,82320
+BRD-K70778732-003-27-5,trazodone,PHLBKPHSAVXXEF-UHFFFAOYSA-N,,False,,0.78541666666666665,4,ASSESSED,5533
+BRD-K70821460-300-02-4,4-methylhistamine,UGYXPZQILZRKJJ-UHFFFAOYSA-N,,False,,0.74791666666666667,4,ASSESSED,37463
+BRD-K71106091-001-09-5,fludarabine-phosphate,GIUYCYHIANZCFB-FJFJXFQQSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,30751
+BRD-K72063794-003-01-0,VU591,ZQPXNYLXYNRFNP-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.74123677248677244,4,ASSESSED,44123657
+BRD-K72726508-001-02-1,arcyriaflavin-a,KAJXOWFGKYKMMZ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5327723
+BRD-K72815923-034-02-0,xanomeline,JOLJIIDDOBNFHW-UHFFFAOYSA-N,,False,,0.29801338547234102,4,ASSESSED,60809
+BRD-K73276278-305-01-1,MCOPPB,CYYNMPPFEJPBJD-OAQYLSRUSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,24800108
+BRD-K73319509-001-08-0,PF-04217903,PDMUGYOXRHVNMO-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.73849206349206353,4,ASSESSED,17754438
+BRD-K73789395-001-09-9,ZM-336372,PYEFPDQFAZNXLI-UHFFFAOYSA-N,poscon_orf,False,,1,4,ASSESSED,5730
+BRD-K74514084-003-09-2,pazopanib,CUIHSIWYWATEQL-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,10113978
+BRD-K74913225-001-14-0,brinzolamide,HCRKCZRJWPKOAR-JTQLQIEISA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.61557539682539686,4,ASSESSED,68844
+BRD-K75390981-300-04-9,N-alpha-Methylhistamine-dihydrochloride,PHSPJQZRQAJPPF-UHFFFAOYSA-N,,False,,0.87777777777777777,4,ASSESSED,912
+BRD-K75748943-300-01-3,DG-172,ZJMDTBBCNMGFMS-SAPNQHFASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,57342889
+BRD-K76037122-001-02-5,guanidine,ZRALSGWEFCBTJO-UHFFFAOYSA-N,,False,,0.85515873015873012,4,ASSESSED,3520
+BRD-K76674262-001-03-3,homoharringtonine,HYFHYPWGAURHIV-JFIAXGOJSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,285033
+BRD-K76792669-001-08-1,citric-acid,KRKNYBCHXYNGOX-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.33230380730380726,4,ASSESSED,19782904
+BRD-K76908866-001-07-6,CP-724714,LLVZBTWPGQVVLW-SNAWJCMRSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,9874913
+BRD-K77060810-001-01-5,AZD1283,NEMHKCNXXRQYRF-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.33444170208876089,4,ASSESSED,23649325
+BRD-K77087341-001-02-4,2-Oleoylglycerol,UPWGQKDVAURUGE-KTKRTIGZSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.49752886002885999,4,ASSESSED,5319879
+BRD-K77220725-003-01-5,Ro-1138452,GYYRMJMXXLJZAB-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,9839644
+BRD-K77627880-001-04-0,A205804,QQGWEXFLMJGCAL-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,9839311
+BRD-K78122587-300-04-3,NNC-55-0396,VHHVPDKNKPNKHY-JDXGNMNLSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,9957280
+BRD-K78126613-001-27-7,menadione,MJVAVZPDRWSRRC-UHFFFAOYSA-N,,False,,1,4,ASSESSED,4055
+BRD-K78692225-001-24-5,leflunomide,VHOGYURTWQBHIL-UHFFFAOYSA-N,,False,,1,4,ASSESSED,3899
+BRD-K80451230-051-02-6,zamifenacin,BDNFQGRSKSQXRI-XMMPIXPASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.59105777263671999,4,ASSESSED,3086618
+BRD-K80666802-003-01-0,CYM-50358,QWJOPXDAQCDRRM-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,53358422
+BRD-K80935598-001-01-1,AZ191,ZYVXTMKTGDARKR-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,72716071
+BRD-K80970344-201-08-6,pyrrolidine-dithiocarbamate,VSWDORGPIHIGNW-UHFFFAOYSA-N,,False,,1,4,ASSESSED,65351
+BRD-K81197548-003-01-4,NSC-632839,PKCYYPHSCUSQDK-AYKLPDECSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5351363
+BRD-K81405859-300-01-4,JTE-607,IPSSXIMJJXSJQB-FQEVSTJZSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,9938545
+BRD-K81801188-001-02-8,PP-121,NVRXTLZYXZNATH-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,24905142
+BRD-K82818427-001-04-8,batimastat,XFILPEOLDIKJHX-QYZOEREBSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,5362422
+BRD-K83896451-001-06-7,glutamine-(l),ZDXPYRJPNDTMRX-VKHMYHEASA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.67828282828282827,4,ASSESSED,5961
+BRD-K84266862-001-03-2,BRL-50481,IFIUFCJFLGCQPH-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.53035714285714275,4,ASSESSED,2921148
+BRD-K84783599-001-01-0,riociguat,WXXSNCNJFUAIDG-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.42180134680134679,4,ASSESSED,11304743
+BRD-K86525559-001-07-8,AZD7762,IAYGCINLNONXHY-LBPRGKRZSA-N,poscon_diverse,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,8,ASSESSED,11152667
+BRD-K86930074-001-05-0,cediranib,XXJWYDDUDKYVKI-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,9933475
+BRD-K87158025-003-08-7,benzamil,KXDROGADUISDGY-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.76438492063492058,4,ASSESSED,108107
+BRD-K87632963-001-03-0,GNF-5,IIQUYGWWHIHOCF-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,44129660
+BRD-K87691185-001-01-2,FPS-ZM1,XDFKWGIBQMHSOH-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.53445894383394388,4,ASSESSED,24752728
+BRD-K87782578-001-01-4,AVL-292,KXBDTLQSDKGAEB-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,59174488
+BRD-K89517477-001-01-4,TC-S-7004,CQKBSRPVZZLCJE-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,57523919
+BRD-K90497590-001-05-9,AR-12,YULUCECVQOCQFQ-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,10027278
+BRD-K90747162-001-01-4,KG-5,CMYHZFCJPORPHY-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,53328059
+BRD-K91188791-001-17-5,aloxistatin,SRVFFFJZQVENJC-IHRRRGAJSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,65663
+BRD-K91283740-003-01-6,UNC2025,MJSHVHLADKXCML-RQNOJGIXSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,1,4,ASSESSED,
+BRD-K91370081-001-25-1,anisomycin,YKJYKKNCCRKFSL-RDBSUJKOSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,253602
+BRD-K91456750-001-01-9,sacubitril,PYNXFZCZUAOOQC-UTKZUKDTSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.45061327561327558,4,ASSESSED,9811834
+BRD-K91535048-001-01-2,EI1,PFHDWRIVDDIFRP-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,72199293
+BRD-K91543828-001-02-0,pentostatin,FPVKHBSQESCIEP-JQCXWYLXSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.65238095238095239,4,ASSESSED,439693
+BRD-K91822704-003-07-2,torcitabine,CKTSBUTUHBMZGZ-SHYZEUOFSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.59209540459540455,4,ASSESSED,13711
+BRD-K91825936-001-03-9,ZK811752,XQYASZNUFDVMFH-CQSZACIVSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.97916666666666663,4,ASSESSED,512282
+BRD-K92049597-001-20-8,triamterene,FNYLWPVRPXGIIP-UHFFFAOYSA-N,,False,,0.97916666666666663,4,ASSESSED,5546
+BRD-K93632104-001-17-2,salicylic-acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.53125,4,ASSESSED,118212070
+BRD-K93779381-001-01-9,ingenol-mebutate,VDJHFHXMUKFKET-WDUFCVPESA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,6918670
+BRD-K93788137-001-04-1,PF-431396,POJZIZBONPAWIV-UHFFFAOYSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11598628
+BRD-K93942811-001-01-3,ML-323,VUIRVWPJNKZOSS-UHFFFAOYSA-N,poscon_cp,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,60167849
+BRD-K94342292-001-01-3,NS-11021,MDKAFDIKYQMOMF-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,24825677
+BRD-K94863486-001-02-2,cetilistat,MVCQKIKWYUURMU-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.32161696946057861,4,ASSESSED,9952916
+BRD-K95785537-001-22-3,PP-2,PBBRWFOVCUAONR-UHFFFAOYSA-N,,False,,1,4,ASSESSED,4878
+BRD-K97010173-001-04-1,deferasirox,BOFQWVMAQOTZIW-UHFFFAOYSA-N,,False,,1,4,ASSESSED,
+BRD-K97072811-001-11-4,TG-003,BGVLELSCIHASRV-QPEQYQDCSA-N,poscon_cp,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,1893668
+BRD-K97091514-001-11-4,vitamin-E,GVJHHUAWPYXKBD-IEOSBIPESA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.,0.8088383838383838,4,ASSESSED,14985
+BRD-K97181089-003-24-7,amiloride,XSDQTOBWRPYKKA-UHFFFAOYSA-N,,False,,1,4,ASSESSED,16231
+BRD-K98357249-001-02-9,IRL-2500,UZDORQWMYRRLQV-JHOUSYSJSA-N,,True,Frozen/current chemical-key discrepancy; source identity retained without repair.; Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,0.1337387975780833,4,ASSESSED,5311192
+BRD-K98763141-001-30-8,niflumic-acid,JZFPYUNJRRFVQU-UHFFFAOYSA-N,,False,,0.670436507936508,4,ASSESSED,4488
+BRD-K99616396-316-05-3,motesanib,RAHBGWKEPAQNFF-UHFFFAOYSA-N,,False,Lossy processed PubChem CID differs from exact source annotation; never used for joins or grouping.,1,4,ASSESSED,11667893
+DMSO,DMSO,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,negcon,False,,,0,CONTROL_ONLY,679

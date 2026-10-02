@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 1121,
+      "sha256": "a2cf8890cb4dc6f2ea98f5df284c541c044d06e13d07e901e2568f08f5e7584f"
+    },
+    {
+      "path": "LICENSE_SCOPE.json",
+      "bytes": 160889,
+      "sha256": "7ef2296dbc94b1bb287e0a3e96926fdef2c1da8aa622e80b19e593d9849b65e5"
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "bytes": 3448,
+      "sha256": "ec4d6dc45decc66f49eb851326f07dec2988841ffefdb682e5f3000b856ce7ab"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2362,
+      "sha256": "06fe0067b46603775f1d11bd6ef38b6dc0f6a3000b14997656ddf5639d0910fa"
+    },
+    {
+      "path": "assets/screenshots/control-diagnostic.png",
+      "bytes": 938695,
+      "sha256": "2e813af134bf48a021cc99fdf1e0ddf1fcf5cf1ca3f33ae817d0d86798d997f0"
+    },
+    {
+      "path": "assets/screenshots/linked-treatment-image.png",
+      "bytes": 899664,
+      "sha256": "e58b6db3703b1f19f8ec1ffd38d5afd73a69e95acd8e5c497d56977bc2ea76be"
+    },
+    {
+      "path": "assets/screenshots/overview-workbench.png",
+      "bytes": 899664,
+      "sha256": "e58b6db3703b1f19f8ec1ffd38d5afd73a69e95acd8e5c497d56977bc2ea76be"
+    },
+    {
+      "path": "docs/GITHUB_DESKTOP_UPLOAD.md",
+      "bytes": 1294,
+      "sha256": "91ca6bcf8f50dc99da7669cab5b1ff3cb1ace913871bef823e6fe65125db6100"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "bytes": 8794,
+      "sha256": "979564257b4dd01f51968339f51cd80e5acaa169b912bc97badd631812cb8f0f"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 4022,
+      "sha256": "bacd830ba23c7361483564779460781ad24e4dd1705f8f1d5f67d7becff8a7cf"
+    },
+    {
+      "path": "docs/QUICK_START.md",
+      "bytes": 2000,
+      "sha256": "7eecc299ca982e2ab7c1be5d5cbc929ac942d9ded981108c274c7f6fd353d4c8"
+    },
+    {
+      "path": "docs/RELEASE_STATUS.md",
+      "bytes": 781,
+      "sha256": "4203d7f9d4d7e88e94d454f51410030348f8f58636c47edfbbdcded448c16dd9"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 3814,
+      "sha256": "bb60ef9118c74d003b5d0f18dbf51829ab6b3035c7d709322fe054ccca89b9fc"
+    },
+    {
+      "path": "docs/SCIENTIFIC_SYNTHESIS.md",
+      "bytes": 10677,
+      "sha256": "c775a10c4c39c0e720659ac8cfbd3694fa34d0b52f5163ee80ecae06c2b3bfa7"
+    },
+    {
+      "path": "docs/THIRD_PARTY_REDISTRIBUTION.md",
+      "bytes": 3282,
+      "sha256": "ecfbdcea6fb1954ef74f6bcb9a6c27722b7fa0e15ba8628b01672486fdfa688e"
+    },
+    {
+      "path": "notices/CPJUMP1-BSD-3-Clause.md",
+      "bytes": 1525,
+      "sha256": "51b1343ddc261fcabb12017701adf3a1e00454b922b7cefe81f0ae7bb04e97ec"
+    },
+    {
+      "path": "notices/CPJUMP1-CC0.md",
+      "bytes": 7057,
+      "sha256": "588da6ff6a65a262d9538719624f271b6aee2f244c3bc43d71cf5115fcd14ac9"
+    },
+    {
+      "path": "notices/Cell-Painting-Gallery-LICENSE.txt",
+      "bytes": 1218,
+      "sha256": "2a07a83f86f1a1c9d5a8bfd12e362dfa5cbba85d8f474115bebc9da7ce42e12c"
+    }
+  ]
+}
